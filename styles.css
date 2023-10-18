@@ -1,0 +1,5 @@
+#hero h1.welcome-text {
+    background-color: black;
+    color: rgb(224, 224, 239); 
+    font-family: 'Kanit', sans-serif;
+}
